@@ -31,3 +31,6 @@ This project is designed to:
 - Integrate with IoT devices and smart home applications
 - Enhance personalization using user behavior learning
 
+  the deepspeech files were too large to upload on git...so feel free to reach out for those.
+
+ 
